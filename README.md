@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![NextFlow](https://img.shields.io/badge/Paper-NextFlow-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2412.03069)&nbsp;
+[![NextFlow](https://img.shields.io/badge/Paper-NextFlow-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2601.02204)&nbsp;
+[![VAR RL](https://img.shields.io/badge/Paper-VARRL-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2601.02256)&nbsp;
 [![project page](https://img.shields.io/badge/Project_page-More_visualizations-green?logo=bytedance)](https://bytevisionlab.github.io/NextFlow/)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ByteVisionLab.NextFlow)
 
@@ -27,7 +28,7 @@ NextFlow produces high-fidelity visuals with exceptional prompt adherence, adept
     <img src="assets/demo_t2i.jpg" alt="Text to Image Demo" style="width: 95%;" />
 </div>
 
-#### Text-Image Alignment 
+#### Complex Instruction Following
 The model demonstrates precise alignment between text and images, ensuring accurate representation of detailed descriptions.
 <div align="left">
     <img src="assets/demo_t2i_2.jpg" alt="Text to Image Demo" style="width: 100%;" />
@@ -99,9 +100,25 @@ NextFlow is highly efficient, enabling thegeneration of 1024 × 1024 images in j
 ## Citation
 
 ```bibtex
-@article{NextFlow2026,
-  title={NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation},
-  author={NextFlow Team},
-  journal={arXiv preprint},
-  year={2026}
+@article{zhang2026NextFlow,
+      title={NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation}, 
+      author={Huichao Zhang and Liao Qu and Yiheng Liu and Hang Chen and Yangyang Song and Yongsheng Dong and Shikun Sun and Xian Li and Xu Wang and Yi Jiang and Hu Ye and Bo Chen and Yiming Gao and Peng Liu and Akide Liu and Zhipeng Yang and Qili Deng and Linjie Xing and Jiyang Liu and Zhao Wang and Yang Zhou and Mingcong Liu and Yi Zhang and Qian He and Xiwei Hu and Zhongqi Qi and Jie Shao and Zhiye Fu and Shuai Wang and Fangmin Chen and Xuezhi Chai and Zhihua Wu and Yitong Wang and Zehuan Yuan and Daniel K. Du and Xinglong Wu},
+      year={2026},
+      eprint={2601.02204},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.02204}, 
 }
+```
+
+```bibtex
+@article{sun2026varrlrighttackling,
+      title={VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation}, 
+      author={Shikun Sun and Liao Qu and Huichao Zhang and Yiheng Liu and Yangyang Song and Xian Li and Xu Wang and Yi Jiang and Daniel K. Du and Xinglong Wu and Jia Jia},
+      year={2026},
+      eprint={2601.02256},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.02256}, 
+}
+```
