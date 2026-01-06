@@ -4,7 +4,6 @@
 
 [![NextFlow](https://img.shields.io/badge/Paper-NextFlow-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2601.02204)&nbsp;
 [![VAR RL](https://img.shields.io/badge/Paper-VARRL-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2601.02256)&nbsp;
-[![project page](https://img.shields.io/badge/Project_page-More_visualizations-green?logo=bytedance)](https://bytevisionlab.github.io/NextFlow/)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ByteVisionLab.NextFlow)
 
 </div>
