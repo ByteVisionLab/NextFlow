@@ -99,25 +99,19 @@ NextFlow is highly efficient, enabling thegeneration of 1024 × 1024 images in j
 ## Citation
 
 ```bibtex
-@article{zhang2026NextFlow,
-      title={NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation}, 
-      author={Huichao Zhang and Liao Qu and Yiheng Liu and Hang Chen and Yangyang Song and Yongsheng Dong and Shikun Sun and Xian Li and Xu Wang and Yi Jiang and Hu Ye and Bo Chen and Yiming Gao and Peng Liu and Akide Liu and Zhipeng Yang and Qili Deng and Linjie Xing and Jiyang Liu and Zhao Wang and Yang Zhou and Mingcong Liu and Yi Zhang and Qian He and Xiwei Hu and Zhongqi Qi and Jie Shao and Zhiye Fu and Shuai Wang and Fangmin Chen and Xuezhi Chai and Zhihua Wu and Yitong Wang and Zehuan Yuan and Daniel K. Du and Xinglong Wu},
-      year={2026},
-      eprint={2601.02204},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.02204}, 
+@article{zhang2026nextflow,
+  title={NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation},
+  author={Zhang, Huichao and Qu, Liao and Liu, Yiheng and Chen, Hang and Song, Yangyang and Dong, Yongsheng and Sun, Shikun and Li, Xian and Wang, Xu and Jiang, Yi and others},
+  journal={arXiv preprint arXiv:2601.02204},
+  year={2026}
 }
 ```
 
 ```bibtex
-@article{sun2026varrlrighttackling,
-      title={VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation}, 
-      author={Shikun Sun and Liao Qu and Huichao Zhang and Yiheng Liu and Yangyang Song and Xian Li and Xu Wang and Yi Jiang and Daniel K. Du and Xinglong Wu and Jia Jia},
-      year={2026},
-      eprint={2601.02256},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.02256}, 
+@article{sun2026var,
+  title={VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation},
+  author={Sun, Shikun and Qu, Liao and Zhang, Huichao and Liu, Yiheng and Song, Yangyang and Li, Xian and Wang, Xu and Jiang, Yi and Du, Daniel K and Wu, Xinglong and others},
+  journal={arXiv preprint arXiv:2601.02256},
+  year={2026}
 }
 ```
