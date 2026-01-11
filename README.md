@@ -92,7 +92,7 @@ Our pipeline is validated on **6 trillion tokens**, ensuring robust multimodal c
 </div>
 
 ##### Inference Efficiency
-NextFlow is highly efficient, enabling thegeneration of 1024 × 1024 images in just 5 seconds—orders of magnitude faster than comparableAR models. And NextFlowrequires **6× fewer FLOPs** than MMDiT-based diffusion models at 1024² resolution. Its next-scale approach enables dynamic resolution generation without the typical computational costs of autoregression.
+NextFlow is highly efficient, enabling the generation of 1024 × 1024 images in just 5 seconds—orders of magnitude faster than comparableAR models. And NextFlow requires **6× fewer FLOPs** than MMDiT-based diffusion models at 1024² resolution. Its next-scale approach enables dynamic resolution generation without the typical computational costs of autoregression.
 
 ---
 
